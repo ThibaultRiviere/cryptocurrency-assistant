@@ -1,4 +1,0 @@
-{
-    "key": "/etc/letsencrypt/live/thibault.riviere.io/privkey.pem",
-    "cert": "/etc/letsencrypt/live/thibault.riviere.io/fullchain.pem"
-}

@@ -22,7 +22,7 @@ function getInitializedServer(config, assistant) {
 function main() {
     const assistant = getInitializedAssistant();
     const server = getInitializedServer(config, assistant);
-    server.listen(443);
+    server.listen(8000);
 }
 
 main();
